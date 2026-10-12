@@ -23,19 +23,19 @@ The project explores how AI assistance can become part of the working environmen
 
 ## Screenshots
 
-These screenshots show an earlier development build from August 2026, using sample interface content.
+Screenshots supplied by Tony Wong on 13 October 2026, showing the current development build.
 
-### Desktop and Notes
+### Desktop dashboard
 
-![Dodo OS desktop with the Notes application](../assets/screenshots/dodo-desktop-notes.png)
+![Dodo OS desktop dashboard](../assets/screenshots/dodo-desktop-october-2026.png)
 
-The desktop shell, application dock and integrated Notes interface.
+The desktop dashboard, navigation and application dock, with panels for assistant status, local models, tasks, calendar and notes.
 
-### Dodo Studio
+### Dodo Tasks
 
-![Dodo Studio image editing workspace](../assets/screenshots/dodo-studio.png)
+![Dodo Tasks workspace with its assistant panel](../assets/screenshots/dodo-tasks-october-2026.png)
 
-The integrated creative workspace, showing image editing controls, layers and quick actions.
+The task workspace with inbox filters, task selection and an assistant panel for planning and reviewing work.
 
 Source code, internal architecture, integration methods and configuration remain private.
 

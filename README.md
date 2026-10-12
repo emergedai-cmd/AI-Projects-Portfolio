@@ -57,9 +57,9 @@ Designed and developed a cross-platform desktop environment combining AI assista
 
 **Demonstrates:** product development, user experience and AI application integration.
 
-![Dodo OS desktop with the Notes application](assets/screenshots/dodo-desktop-notes.png)
+![Dodo OS desktop dashboard](assets/screenshots/dodo-desktop-october-2026.png)
 
-*Desktop and Notes — earlier development build, August 2026.*
+*Dodo OS desktop dashboard — development build, October 2026.*
 
 [Read project overview →](projects/dodo-os.md)
 
@@ -79,7 +79,7 @@ I use AI heavily in research and development, review the resulting work and take
 
 ## Project evidence and access
 
-The [Dodo OS gallery](projects/dodo-os.md#screenshots) includes screenshots from an earlier development build. Project discussions and walkthroughs can be arranged during an interview, subject to confidentiality and the availability of the relevant system. Enterprise projects are described without client data or internal material.
+The [Dodo OS gallery](projects/dodo-os.md#screenshots) includes desktop and Tasks screenshots from the October 2026 development build. Project discussions and walkthroughs can be arranged during an interview, subject to confidentiality and the availability of the relevant system. Enterprise projects are described without client data or internal material.
 
 Source code, detailed architecture, prompts, configuration and proprietary implementation methods are not published here.
 
