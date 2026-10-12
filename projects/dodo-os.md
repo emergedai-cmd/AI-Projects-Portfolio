@@ -21,6 +21,22 @@ The project explores how AI assistance can become part of the working environmen
 - Cross-platform delivery and practical testing.
 - Incorporating AI assistance into everyday software.
 
+## Screenshots
+
+These screenshots show an earlier development build from August 2026, using sample interface content.
+
+### Desktop and Notes
+
+![Dodo OS desktop with the Notes application](../assets/screenshots/dodo-desktop-notes.png)
+
+The desktop shell, application dock and integrated Notes interface.
+
+### Dodo Studio
+
+![Dodo Studio image editing workspace](../assets/screenshots/dodo-studio.png)
+
+The integrated creative workspace, showing image editing controls, layers and quick actions.
+
 Source code, internal architecture, integration methods and configuration remain private.
 
 [← Back to portfolio](../README.md)
